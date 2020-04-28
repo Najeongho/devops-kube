@@ -1,5 +1,3 @@
-namePrefix: kustomize-
-
 resources:
 - mysql.yaml
 - wordpress.yaml
